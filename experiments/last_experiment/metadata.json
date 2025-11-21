@@ -1,0 +1,10 @@
+{
+  "timestamp_utc": "2025-09-02T22-21-50Z",
+  "has_model": true,
+  "n_features": 3,
+  "params": null,
+  "raw_args": null,
+  "extra": null,
+  "model_class": "str",
+  "model_module": "builtins"
+}

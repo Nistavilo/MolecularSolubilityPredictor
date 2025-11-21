@@ -19,7 +19,6 @@ data/processed/
 !data/README.md
 models/
 !models/.gitkeep
-experiments/
 !experiments/.gitkeep
 cache/
 logs/
