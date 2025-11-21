@@ -1,3 +1,0 @@
-MAE
-RMSE
-R2
